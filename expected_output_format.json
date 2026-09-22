@@ -1,0 +1,1014 @@
+{
+    "status": "SUCCESS",
+    "message": "Success",
+    "status_code": "success",
+    "transaction_id": "a17a6006-74ae-4883-9f0e-aeecd8148de0",
+    "journey_transaction_id": "EQ.GT.5e1b08bf-8397-4e51-8c50-e00b58cd1aa0#aa_analytics_home_credit_v1#342ffabc498c49a2b34a069eb1aed6a3",
+    "journey_id": "aa_analytics_home_credit_v1",
+    "data": {
+        "insights": {
+            "bank_statement_annotations": [
+                {
+                    "insight_type": "BANK_STATEMENT_ANNOTATIONS",
+                    "insight_group": "BANK_STATEMENT",
+                    "link_reference_no": "96E4BCE0-E02B-431A-BCD4-3437243A10F6",
+                    "reference_end_date": "22-09-2026",
+                    "grouped_emi_debit_amount": [
+                        {
+                            "data": {
+                                "emi_debit_amounts": [
+                                    22695,
+                                    20922,
+                                    20922,
+                                    20922,
+                                    9710,
+                                    7603,
+                                    20103,
+                                    7603,
+                                    10168,
+                                    7603,
+                                    8792,
+                                    6655,
+                                    0
+                                ]
+                            },
+                            "id": "fb475700-09dc-439a-9189-07159329619f",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_emi_debit_count": [
+                        {
+                            "data": {
+                                "emi_debit_counts": [
+                                    4,
+                                    3,
+                                    3,
+                                    3,
+                                    2,
+                                    2,
+                                    3,
+                                    2,
+                                    3,
+                                    2,
+                                    2,
+                                    2,
+                                    0
+                                ]
+                            },
+                            "id": "b0a2d3c8-0173-4c34-8673-9d954c6758de",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_loan_credit_amount": [
+                        {
+                            "data": {
+                                "loan_credit_amounts": [
+                                    0,
+                                    16938,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    41283,
+                                    0,
+                                    147846,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "8bf761fa-3328-45fd-9da7-4adaada294e5",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_loan_credit_count": [
+                        {
+                            "data": {
+                                "loan_credit_counts": [
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    2,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "238e2d6b-5c3e-4aed-8a75-74b40d16b9ae",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_credit_count": [
+                        {
+                            "data": {
+                                "credit_counts": [
+                                    26,
+                                    31,
+                                    45,
+                                    41,
+                                    56,
+                                    56,
+                                    46,
+                                    35,
+                                    39,
+                                    48,
+                                    37,
+                                    47,
+                                    7
+                                ]
+                            },
+                            "id": "13daf8a6-3122-4fb2-9921-3f04608f0a00",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_debit_count": [
+                        {
+                            "data": {
+                                "debit_counts": [
+                                    81,
+                                    91,
+                                    121,
+                                    275,
+                                    191,
+                                    171,
+                                    210,
+                                    136,
+                                    168,
+                                    114,
+                                    81,
+                                    104,
+                                    21
+                                ]
+                            },
+                            "id": "d80dd8ed-20d9-4ed4-aac5-bc47ecc38141",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_credit_amount": [
+                        {
+                            "data": {
+                                "credit_amounts": [
+                                    123148,
+                                    110996,
+                                    84766.28,
+                                    116475.11,
+                                    122908.78,
+                                    118979.04,
+                                    160796.62,
+                                    393441.19,
+                                    534298.1,
+                                    98388.97,
+                                    163885,
+                                    93687.3,
+                                    7754
+                                ]
+                            },
+                            "id": "526f649f-e16b-45df-a6d3-456e924f24f3",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_debit_amount": [
+                        {
+                            "data": {
+                                "debit_amounts": [
+                                    123056.99,
+                                    112352.7,
+                                    90334.36,
+                                    112356.29,
+                                    125404.93,
+                                    130343.7,
+                                    144230.87,
+                                    457075,
+                                    480133.66,
+                                    92839.74,
+                                    162007.82,
+                                    91574,
+                                    9057.6
+                                ]
+                            },
+                            "id": "7dc7d151-165a-4c2a-be46-71f7c2382371",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_credit_card_payment_amount": [
+                        {
+                            "data": {
+                                "credit_card_payment_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "8d08ad10-610f-46aa-9ea8-1f9a0521e62a",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_credit_card_payment_count": [
+                        {
+                            "data": {
+                                "credit_card_payment_counts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "dda4746d-5327-4a9d-9c08-b97946b97277",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_investment_credit_amount": [
+                        {
+                            "data": {
+                                "investment_credit_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "598f9fe0-a73f-4f55-8789-cbee51c77586",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_investment_debit_amount": [
+                        {
+                            "data": {
+                                "investment_debit_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    6388.01,
+                                    0,
+                                    0,
+                                    243.93,
+                                    0,
+                                    0,
+                                    0,
+                                    20,
+                                    50,
+                                    40
+                                ]
+                            },
+                            "id": "2d63bb46-f169-4b3d-9357-10813ed6ffa3",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_average_balance": [
+                        {
+                            "data": {
+                                "average_balances": [
+                                    7800.99,
+                                    4335.25,
+                                    5388,
+                                    5711.22,
+                                    6668.79,
+                                    5952.53,
+                                    14416.6,
+                                    8756.25,
+                                    9502.05,
+                                    4505.02,
+                                    6849.57,
+                                    3909.73,
+                                    1382.44
+                                ]
+                            },
+                            "id": "dae7c64f-1693-45a5-bc1d-20c074bb6290",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_maximum_credit_amount": [
+                        {
+                            "data": {
+                                "maximum_credit_amounts": [
+                                    18700,
+                                    20500,
+                                    11700,
+                                    12000,
+                                    16200,
+                                    15000,
+                                    41283,
+                                    305000,
+                                    305000,
+                                    10000,
+                                    22000,
+                                    7000,
+                                    3000
+                                ]
+                            },
+                            "id": "f28132cd-4330-462f-bafb-afaa074ed561",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_maximum_debit_amount": [
+                        {
+                            "data": {
+                                "maximum_debit_amounts": [
+                                    20900,
+                                    20500,
+                                    14500,
+                                    14500,
+                                    14500,
+                                    15000,
+                                    14558,
+                                    264692,
+                                    305000,
+                                    10500,
+                                    20000,
+                                    10000,
+                                    2500
+                                ]
+                            },
+                            "id": "bfcc2a27-1fd6-485a-bf70-d2eb75f5bf9f",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_maximum_balance": [
+                        {
+                            "data": {
+                                "max_balances": [
+                                    39138.99,
+                                    23852.69,
+                                    16866.59,
+                                    20277.47,
+                                    17487.95,
+                                    23898.87,
+                                    43782.75,
+                                    305387.64,
+                                    385544.82,
+                                    20053.38,
+                                    36653.97,
+                                    12134.5,
+                                    3844.27
+                                ]
+                            },
+                            "id": "132e53cf-f9ca-49c1-aa52-bd580017960f",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_minimum_balance": [
+                        {
+                            "data": {
+                                "min_balances": [
+                                    0,
+                                    9.99,
+                                    17.59,
+                                    1.62,
+                                    87.55,
+                                    0.62,
+                                    71.01,
+                                    12.83,
+                                    19.82,
+                                    2.33,
+                                    7.97,
+                                    6.68,
+                                    16.67
+                                ]
+                            },
+                            "id": "23999ca6-1494-4493-8342-5434f37fcfd9",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_last_7days_max_balance": [
+                        {
+                            "data": {
+                                "last_7_days_max_balances": [
+                                    0,
+                                    3032.99,
+                                    3166.69,
+                                    15865.77,
+                                    13467.95,
+                                    17366.1,
+                                    43782.75,
+                                    5111.01,
+                                    385544.82,
+                                    20053.38,
+                                    17930.15,
+                                    7087.97,
+                                    3086.27
+                                ]
+                            },
+                            "id": "aaac88cb-38a7-42fb-a3f3-54ba589b6d02",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_last_7days_min_balance": [
+                        {
+                            "data": {
+                                "last_7_days_min_balances": [
+                                    0,
+                                    9.99,
+                                    166.69,
+                                    390.77,
+                                    2815.95,
+                                    842.1,
+                                    2465.75,
+                                    50.01,
+                                    19.82,
+                                    193.38,
+                                    162.15,
+                                    18.97,
+                                    16.67
+                                ]
+                            },
+                            "id": "b37f3ce4-69d6-4d34-aee9-f3f3a6e599a5",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_days_since_max_balance": [
+                        {
+                            "data": {
+                                "days_since_max_balance": [
+                                    12,
+                                    45,
+                                    76,
+                                    106,
+                                    122,
+                                    174,
+                                    179,
+                                    232,
+                                    234,
+                                    265,
+                                    320,
+                                    339,
+                                    365
+                                ]
+                            },
+                            "id": "b483a679-e183-429d-9f6f-04ddc5e6fa8d",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_upi_credit_amount": [
+                        {
+                            "data": {
+                                "upi_credit_amounts": [
+                                    123148,
+                                    110996,
+                                    84766.28,
+                                    106611.11,
+                                    96958.78,
+                                    118979.04,
+                                    119459.62,
+                                    88441.19,
+                                    81952.1,
+                                    98361.97,
+                                    143385,
+                                    70686.3,
+                                    7730
+                                ]
+                            },
+                            "id": "e8018d7a-b580-4259-8172-1db1190add5f",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_upi_debit_amount": [
+                        {
+                            "data": {
+                                "upi_debit_amounts": [
+                                    112021.5,
+                                    102987,
+                                    81104.36,
+                                    103085.49,
+                                    115694.93,
+                                    122605,
+                                    136577.17,
+                                    184780,
+                                    167176.66,
+                                    79187.54,
+                                    73211.82,
+                                    64894,
+                                    6557.6
+                                ]
+                            },
+                            "id": "167d8541-70f3-4801-aee7-281210461bc1",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_upi_credit_count": [
+                        {
+                            "data": {
+                                "upi_credit_counts": [
+                                    26,
+                                    31,
+                                    45,
+                                    37,
+                                    54,
+                                    56,
+                                    44,
+                                    34,
+                                    35,
+                                    47,
+                                    34,
+                                    38,
+                                    6
+                                ]
+                            },
+                            "id": "14cd321e-dfb0-41dd-9d38-184a4c229ea6",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_upi_debit_count": [
+                        {
+                            "data": {
+                                "upi_debit_counts": [
+                                    77,
+                                    88,
+                                    119,
+                                    272,
+                                    189,
+                                    168,
+                                    207,
+                                    133,
+                                    164,
+                                    110,
+                                    62,
+                                    97,
+                                    20
+                                ]
+                            },
+                            "id": "5d2f5a33-a678-4e50-86fb-96d0691fcb7c",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_salary_credit_amount": [
+                        {
+                            "data": {
+                                "salary_credit_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "3c15061a-549c-48ad-9413-b49f90d3c58a",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_month_end_balance": [
+                        {
+                            "data": {
+                                "month_end_balances": [
+                                    101,
+                                    2009.99,
+                                    1366.69,
+                                    6934.77,
+                                    2815.95,
+                                    5312.1,
+                                    16676.76,
+                                    111.01,
+                                    63744.82,
+                                    9580.38,
+                                    4031.15,
+                                    2153.97,
+                                    40.67
+                                ]
+                            },
+                            "id": "90a38a98-de71-4419-95cc-3e4558d133c3",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_eod_balance_count_less_than_1000": [
+                        {
+                            "data": {
+                                "eod_balance_count_less_than_1000": [
+                                    9,
+                                    6,
+                                    7,
+                                    4,
+                                    3,
+                                    7,
+                                    3,
+                                    13,
+                                    5,
+                                    14,
+                                    3,
+                                    8,
+                                    4
+                                ]
+                            },
+                            "id": "c9fa7aad-81be-47f4-bf53-b1649257af22",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_median_eod_balance": [
+                        {
+                            "data": {
+                                "median_eod_balances": [
+                                    3072.74,
+                                    2536.51,
+                                    4949.59,
+                                    4920.96,
+                                    5852.55,
+                                    2000.36,
+                                    4015.2,
+                                    1320.78,
+                                    4285.1,
+                                    2450.4,
+                                    4257.06,
+                                    2153.97,
+                                    1125.27
+                                ]
+                            },
+                            "id": "58bc9ada-5e8b-4ac1-a234-9ed5387d13bd",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_avg_balance_in_last_7days": [
+                        {
+                            "data": {
+                                "avg_balances_last_7_days": [
+                                    0,
+                                    911.13,
+                                    862.4,
+                                    2086.06,
+                                    6587.38,
+                                    3796.1,
+                                    34354.04,
+                                    997.44,
+                                    28779.82,
+                                    5400.09,
+                                    4145.01,
+                                    1246.54,
+                                    1063.98
+                                ]
+                            },
+                            "id": "71c1cdf3-6006-4ae4-8b5a-d33608568157",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_cash_withdrawal_amount": [
+                        {
+                            "data": {
+                                "cash_withdrawal_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    6000,
+                                    104500,
+                                    45500,
+                                    2500
+                                ]
+                            },
+                            "id": "fdc5e75d-8d03-4dab-b8c6-dd45e0f2e24a",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_cash_withdrawal_count": [
+                        {
+                            "data": {
+                                "cash_withdrawal_counts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    14,
+                                    11,
+                                    1
+                                ]
+                            },
+                            "id": "4d2b0b99-cf73-42e1-ad58-449f45703ff1",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_penalty_amount": [
+                        {
+                            "data": {
+                                "penalty_amounts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    708,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "ffa87157-f725-487f-851b-b693a0d12e6f",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_penalty_count": [
+                        {
+                            "data": {
+                                "penalty_counts": [
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    2,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "9d32cf82-7073-4be6-9316-93f21b5c943a",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_single_account_max_debit_amount": [
+                        {
+                            "data": {
+                                "grouped_single_account_max_debit_amount": [
+                                    16,
+                                    20,
+                                    40,
+                                    20,
+                                    33,
+                                    20,
+                                    40,
+                                    45,
+                                    30,
+                                    5,
+                                    20,
+                                    20,
+                                    28
+                                ]
+                            },
+                            "id": "fc802e15-9aa9-4305-817e-6162f02ea4ae",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_single_account_max_credit_amount": [
+                        {
+                            "data": {
+                                "grouped_single_account_max_credit_amount": [
+                                    55700,
+                                    21700,
+                                    30250,
+                                    38650,
+                                    45500,
+                                    30000,
+                                    27700,
+                                    305000,
+                                    305000,
+                                    15000,
+                                    37840,
+                                    23450,
+                                    4500
+                                ]
+                            },
+                            "id": "f38f212a-b2bc-4c65-abea-b1cea40ce70c",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ],
+                    "grouped_total_third_party_credit_amount": [
+                        {
+                            "data": {
+                                "grouped_total_third_party_credit_amount": [
+                                    123148,
+                                    94058,
+                                    84766.28,
+                                    116475.11,
+                                    122908.78,
+                                    118979.04,
+                                    119513.62,
+                                    393441.19,
+                                    386452.1,
+                                    98388.97,
+                                    163885,
+                                    93687.3,
+                                    7754
+                                ]
+                            },
+                            "id": "949b3726-dec9-4e7d-b7c3-03c9c2c64db2",
+                            "config": {
+                                "period": 13,
+                                "sortby": "decreasing",
+                                "grouping": "monthly"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "keys": {
+            "bank_statement": [
+                {
+                    "end_date": "22-09-2026",
+                    "account_number": "XXXXXX1270",
+                    "account_type": "",
+                    "mobile": "6381881542",
+                    "full_address": "NO 14 MAIN ROAD Madurai North GANDHIPURA,M K PUTHUR Madurai Tamil Nadu,Madurai,",
+                    "latest_balance": "101.00",
+                    "ifsc_code": "IDIB000P053",
+                    "full_name": "Ms. Keerthana Sureshkumar",
+                    "account_open_date": "",
+                    "dob": "02-10-1996",
+                    "bank_name": "Indian Bank",
+                    "micr_code": "",
+                    "link_reference_no": "96E4BCE0-E02B-431A-BCD4-3437243A10F6",
+                    "email": "NOT AVAILABLE",
+                    "tracking_id": "",
+                    "start_date": "22-09-2025"
+                }
+            ]
+        }
+    }
+}
